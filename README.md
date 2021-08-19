@@ -9,7 +9,7 @@
 
 <hr>
 
- I'm `Kaveen Abeyrathne` from a tiny island called Sri Lanka <img src="https://github.com/SuiCxDe007/SuiCxDe007/blob/main/lka.gif" width="30px"> . Currently I'm a Software Engineering Intern at <img src="https://github.com/SuiCxDe007/SuiCxDe007/blob/main/perason.png" width="30px"> Pearson Lanka. Always looking forward to learn new technologies 💻 & experiment 👨‍🔬 with them. If you know some interesting stuff, let me know! May be I'll find 'em interesting too! 😊 
+ I'm `Kaveen Abeyrathne` from a tiny island called Sri Lanka <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" width="30px"> . I'm a Software Engineering Intern hoping to grasp everything that's available for learning. Always looking forward to learn new technologies 💻 & experiment 👨‍🔬 with them. If you know some interesting stuff, let me know! May be I'll find 'em interesting too! 😊 
  
 About Me:
 
