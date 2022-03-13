@@ -13,8 +13,7 @@
  
 About Me:
 
-- 🔭 I’m currently working on [![spring boot](https://img.shields.io/badge/-Spring%20Boot-white?style=plastic&logo=spring)](https://www.spring.io)  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=React) ![Flutter](https://img.shields.io/badge/-Flutter-cyan?style=plastic&logo=Flutter) ![React](https://img.shields.io/badge/-Jenkins-white?style=plastic&logo=Jenkins)
-
+- 🔭 I’m currently working on [![spring boot](https://img.shields.io/badge/-Spring%20Boot-white?style=plastic&logo=spring)](https://www.spring.io)  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=React)
 - ⚡ Fun fact: I Love playing games with friends. Let's Play `League of Legends` together? Find me @ `SuiCxDe - EUW`
 
 <hr>
