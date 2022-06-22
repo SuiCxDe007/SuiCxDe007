@@ -1,4 +1,4 @@
-# Hello World!  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="100px"> 
+# Hello World!  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="40px" height="40px"> 
 ![Let's - Connect](https://img.shields.io/badge/Let's-Connect-lightgrey?style=for-the-badge) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/KaveenAbeyrathne/)](https://www.facebook.com/KaveenAbeyrathne/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kaveenabeyrathne/)](https://www.linkedin.com/in/kaveenabeyrathne/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13172334/kaveen-m)](https://stackoverflow.com/users/13172334/kaveen-m) [![xda](https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white&link=https://forum.xda-developers.com/m/suicxde.7379507/)](https://forum.xda-developers.com/m/suicxde.7379507/) 
 
 
@@ -9,7 +9,7 @@
 
 <hr>
 
- I'm `Kaveen Abeyrathne` from a tiny island called Sri Lanka <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" width="30px"> . I'm a Software Engineer hoping to grasp everything that's available for learning. Always looking forward to learn new technologies 💻 & experiment 👨‍🔬 with them. If you know some interesting stuff, let me know! May be I'll find 'em interesting too! 😊 
+ I'm `Kaveen Abeyrathne` from a tiny island called Sri Lanka <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Animated-Flag-Sri-Lanka.gif" height="40px" width="30px"> . I'm a Software Engineer hoping to grasp everything that's available for learning. Always looking forward to learn new technologies 💻 & experiment 👨‍🔬 with them. If you know some interesting stuff, let me know! May be I'll find 'em interesting too! 😊 
  
 About Me:
 
