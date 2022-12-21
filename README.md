@@ -37,4 +37,3 @@ About Me:
 
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)  ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) 
 
-![hghg](https://badges.pufler.dev/years/SuiCxDe007)
